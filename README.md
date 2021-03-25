@@ -1,0 +1,2 @@
+# SvcWorker
+service worker
